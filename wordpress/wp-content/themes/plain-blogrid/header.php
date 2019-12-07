@@ -24,7 +24,6 @@
 
 		<header id="masthead" class="sheader site-header clearfix">
 			<nav id="primary-site-navigation" class="primary-menu main-navigation clearfix">
-
 				<a href="#" id="pull" class="smenu-hide toggle-mobile-menu menu-toggle" aria-controls="secondary-menu" aria-expanded="false"><?php esc_html_e( 'Menu', 'blogrid' ); ?></a>
 				<div class="top-nav-wrapper">
 					<div class="content-wrap">
@@ -36,6 +35,7 @@
 						<a class="logofont" href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a>
 					<?php endif; ?>
 				</div>
+
 				<div class="center-main-menu">
 					<?php
 					wp_nav_menu( array(
@@ -45,10 +45,10 @@
 						) );
 						?>
 					</div>
+					<div style="float:right"><a href="https://t.me/dushufenxiang_chat" class="telegram-button">Telegram</a></div>
 				</div>
 			</div>
 		</nav>
-
 		<div class="super-menu clearfix">
 			<div class="super-menu-inner">
 				<a href="#" id="pull" class="toggle-mobile-menu menu-toggle" aria-controls="secondary-menu" aria-expanded="false">
@@ -111,6 +111,7 @@
 		<?php dynamic_sidebar( 'headerwidget-3' ); ?>				
 	</div>
 <?php endif; ?>
+		
 </div>
 
 </div>
