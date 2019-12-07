@@ -6,6 +6,7 @@
 /2019/12/07/%e3%80%90%e8%af%bb%e4%b9%a6%e5%88%86%e4%ba%ab%e3%80%91%e3%80%8a%e8%82%a0%e5%ad%90%e7%9a%84%e5%b0%8f%e5%bf%83%e6%80%9d%e3%80%8b/
 /2019/12/07/%e8%81%94%e7%b3%bb%e6%96%b9%e5%bc%8f/
 /2019/12/07/aa/
+/all_pages/
 /category/uncategorized/
 /category/uncategorized/page/1
 /favicon.ico
@@ -20,12 +21,11 @@
 /linlin_reading/2019/12/07/%e3%80%90%e8%af%bb%e4%b9%a6%e5%88%86%e4%ba%ab%e3%80%91%e3%80%8a%e8%82%a0%e5%ad%90%e7%9a%84%e5%b0%8f%e5%bf%83%e6%80%9d%e3%80%8b/
 /linlin_reading/2019/12/07/%e8%81%94%e7%b3%bb%e6%96%b9%e5%bc%8f/
 /linlin_reading/2019/12/07/aa/
-/linlin_reading/test/
+/linlin_reading/all_pages/
 /page/1
 /pages/page/1
 /robots.txt
 /sitemap.xml
-/test/
 /wp-content/themes/blogrid/css/compare.css
 /wp-content/themes/blogrid/css/custom.css
 /wp-content/themes/blogrid/css/font-awesome.css

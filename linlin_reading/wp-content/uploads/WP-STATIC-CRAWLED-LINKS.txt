@@ -5,8 +5,8 @@
 /2019/12/07/%e3%80%90%e8%8b%b1%e6%96%87%e7%bd%91%e6%91%98%e3%80%91opinion-violent-misogyny-is-a-threat-to-half-our-population-we-need-to-call-it-what-it-is-terrorism/
 /2019/12/07/%e3%80%90%e8%af%bb%e4%b9%a6%e5%88%86%e4%ba%ab%e3%80%91%e3%80%8a%e8%82%a0%e5%ad%90%e7%9a%84%e5%b0%8f%e5%bf%83%e6%80%9d%e3%80%8b/
 /2019/12/07/%e8%81%94%e7%b3%bb%e6%96%b9%e5%bc%8f/
-/2019/12/07/1/
 /2019/12/07/aa/
+/all_pages/
 /category/uncategorized/
 /category/uncategorized/page/1
 /linlin_reading/2019/12/07/%e3%80%90%e5%bd%b1%e8%af%84%e3%80%91%e3%80%8a%e5%a4%a7%e4%bd%9b%e6%99%ae%e6%8b%89%e6%96%af%e3%80%8b%ef%bc%9a%e5%a4%a7%e4%bd%9b%e9%87%8c%e4%bc%a0%e5%87%ba%e7%9a%84%e6%95%b2%e5%93%8d%e5%a3%b0/
@@ -16,9 +16,8 @@
 /linlin_reading/2019/12/07/%e3%80%90%e8%af%bb%e4%b9%a6%e5%88%86%e4%ba%ab%e3%80%91%e3%80%8a%e8%82%a0%e5%ad%90%e7%9a%84%e5%b0%8f%e5%bf%83%e6%80%9d%e3%80%8b/
 /linlin_reading/2019/12/07/%e8%81%94%e7%b3%bb%e6%96%b9%e5%bc%8f/
 /linlin_reading/2019/12/07/aa/
-/linlin_reading/test/
+/linlin_reading/all_pages/
 /page/1
-/test/
 /wp-content/themes/blogrid/css/compare.css
 /wp-content/themes/blogrid/css/custom.css
 /wp-content/themes/blogrid/css/font-awesome.css
@@ -94,7 +93,6 @@
 /2019/12/07/%e3%80%90%e8%8b%b1%e6%96%87%e7%bd%91%e6%91%98%e3%80%91opinion-violent-misogyny-is-a-threat-to-half-our-population-we-need-to-call-it-what-it-is-terrorism/feed/
 /2019/12/07/%e3%80%90%e8%af%bb%e4%b9%a6%e5%88%86%e4%ba%ab%e3%80%91%e3%80%8a%e8%82%a0%e5%ad%90%e7%9a%84%e5%b0%8f%e5%bf%83%e6%80%9d%e3%80%8b/feed/
 /2019/12/07/%e8%81%94%e7%b3%bb%e6%96%b9%e5%bc%8f/feed/
-/2019/12/07/1/feed/
 /2019/12/07/aa/feed/
 /category/uncategorized/feed/
 /comments/feed/

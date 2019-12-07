@@ -12,14 +12,12 @@
 /2019/12/07/%e3%80%90%e8%af%bb%e4%b9%a6%e5%88%86%e4%ba%ab%e3%80%91%e3%80%8a%e8%82%a0%e5%ad%90%e7%9a%84%e5%b0%8f%e5%bf%83%e6%80%9d%e3%80%8b/feed/
 /2019/12/07/%e8%81%94%e7%b3%bb%e6%96%b9%e5%bc%8f/
 /2019/12/07/%e8%81%94%e7%b3%bb%e6%96%b9%e5%bc%8f/feed/
-/2019/12/07/1/
-/2019/12/07/1/feed/
 /2019/12/07/aa/
 /2019/12/07/aa/feed/
+/all_pages/
 /category/uncategorized/feed/
 /comments/feed/
 /feed/
-/test/
 /wp-content/themes/blogrid/css/font-awesome.min.css
 /wp-content/themes/blogrid/js/jquery.flexslider.js
 /wp-content/themes/blogrid/js/navigation.js
