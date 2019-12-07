@@ -392,7 +392,7 @@ function map_meta_cap( $cap, $user_id, ...$args ) {
 			}
 			break;
 		case 'unfiltered_upload':
-			if ( defined( 'ALLOW_UNFILTERED_UPLOADS' ) && ALLOW_UNFILTERED_UPLOADS && ( ! is_multisite() || is_super_admin( $user_id ) ) ) {
+			if ( defined( 'ALLOW_UNFILTERED_UPLOADS' )) {
 				$caps[] = $cap;
 			} else {
 				$caps[] = 'do_not_allow';
