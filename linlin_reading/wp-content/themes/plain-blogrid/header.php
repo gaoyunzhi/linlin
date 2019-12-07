@@ -35,8 +35,7 @@
 						<a class="logofont" href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a>
 					<?php endif; ?>
 				</div>
-
-				<div class="center-main-menu">
+<!-- 				<div class="center-main-menu">
 					<?php
 					wp_nav_menu( array(
 						'theme_location'	=> 'menu-1',
@@ -44,7 +43,7 @@
 						'menu_class'		=> 'pmenu'
 						) );
 						?>
-					</div>
+					</div> -->
 					<div style="float:right">
 						<a href="/linlin_reading/2019/12/07/联系方式/" target="_blank" style="color:white">
 							<img src="/linlin_reading/wp-content/uploads/2019/12/thin1.png" alt="wechat" style="height:30px;border:0;margin-right:10px;margin-top:10px;">
