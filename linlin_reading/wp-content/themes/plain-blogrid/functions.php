@@ -6,10 +6,10 @@
 
 function custom_myme_types($mime_types){
   $mime_types['json'] = 'application/json';
+  $mime_types['mobi'] = 'mobi';
   return $mime_types;
 }
 add_filter('upload_mimes', 'custom_myme_types', 1, 1);
-
 
 /**
  * Google fonts, credits can be found in readme.
