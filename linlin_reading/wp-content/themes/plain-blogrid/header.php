@@ -46,11 +46,11 @@
 						?>
 					</div>
 					<div style="float:right">
-						<a href="/wordpress/2019/12/07/联系方式/" target="_blank" style="color:white">
-							<img src="/wordpress/wp-content/uploads/2019/12/thin1.png" alt="wechat" style="height:30px;border:0;margin-right:10px;margin-top:10px;">
+						<a href="/linlin_reading/2019/12/07/联系方式/" target="_blank" style="color:white">
+							<img src="/linlin_reading/wp-content/uploads/2019/12/thin1.png" alt="wechat" style="height:30px;border:0;margin-right:10px;margin-top:10px;">
 						</a>
 						<a href="https://t.me/dushufenxiang_chat" target="_blank">
-							<img src="/wordpress/wp-content/uploads/2019/12/icon2561.png" alt="telegram" style="width:30px;height:30px;border:0;margin-top:10px">
+							<img src="/linlin_reading/wp-content/uploads/2019/12/icon2561.png" alt="telegram" style="width:30px;height:30px;border:0;margin-top:10px">
 						</a>
 					</div>
 				</div>
