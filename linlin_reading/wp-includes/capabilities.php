@@ -392,11 +392,7 @@ function map_meta_cap( $cap, $user_id, ...$args ) {
 			}
 			break;
 		case 'unfiltered_upload':
-			if ( defined( 'ALLOW_UNFILTERED_UPLOADS' )) {
-				$caps[] = $cap;
-			} else {
-				$caps[] = 'do_not_allow';
-			}
+			$caps[] = $cap;
 			break;
 		case 'edit_css':
 		case 'unfiltered_html':
