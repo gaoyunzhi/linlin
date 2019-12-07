@@ -3,7 +3,13 @@
 	 function plain_blogrid_enqueue_styles() {
  		  wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/style.css' ); 
  		  } 
- 
+
+function custom_myme_types($mime_types){
+  $mime_types['json'] = 'application/json';
+  return $mime_types;
+}
+add_filter('upload_mimes', 'custom_myme_types', 1, 1);
+
 
 /**
  * Google fonts, credits can be found in readme.
@@ -149,3 +155,4 @@ if(! function_exists('plain_blogrid_customizer_css_final_output' ) ):
 		<?php }
 		add_action( 'wp_head', 'plain_blogrid_customizer_css_final_output' );
 		endif;
+
