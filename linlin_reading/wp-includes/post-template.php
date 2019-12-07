@@ -371,6 +371,17 @@ function get_the_content( $more_link_text = null, $strip_teaser = false, $post =
 	return $output;
 }
 
+// Chinese content will not be trimmed, trim them
+function the_excerpt_linlin_customized() {
+	$quota = 350 - 2 * strlen(get_the_title());
+	$result_r = apply_filters( 'the_excerpt', get_the_excerpt() );
+	if (strlen($result_r) <= $quota) {
+		echo $result_r;
+	} else {
+		echo mb_substr($result_r, 0, max(intdiv($quota, 2), 20), "utf-8").'...';
+	}
+}
+
 /**
  * Display the post excerpt.
  *
@@ -387,6 +398,7 @@ function the_excerpt() {
 	 *
 	 * @param string $post_excerpt The post excerpt.
 	 */
+
 	echo apply_filters( 'the_excerpt', get_the_excerpt() );
 }
 

@@ -43,9 +43,9 @@
 			endif; ?>
 		</header><!-- .entry-header -->
 
-		<div class="entry-content">
+		<div class="entry-content">			
 			<?php
-			the_excerpt( sprintf(
+			the_excerpt_linlin_customized( sprintf(
 				wp_kses(
 					/* translators: %s: Name of current post. Only visible to screen readers */
 					__( 'Continue reading<span class="screen-reader-text"> "%s"</span>', 'blogrid' ),
