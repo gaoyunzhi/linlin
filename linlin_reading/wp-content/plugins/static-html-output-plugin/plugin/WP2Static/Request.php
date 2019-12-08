@@ -66,10 +66,10 @@ class WP2Static_Request
     }
     public function putWithJSONPayloadCustomHeaders($url, $data, $headers)
     {
-    	echo "LINLINAAA";
-        $ch = curl_init();
+        $parsed_url = implode('/', array_map('rawurlencode', explode('/', $url)));
+        $parsed_url = str_replace('%3A//', '://', $parsed_url);
         curl_setopt($ch, CURLOPT_ENCODING, "");
-        curl_setopt($ch, CURLOPT_URL, $url);
+        curl_setopt($ch, CURLOPT_URL, $parsed_url);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
         curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
         curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);

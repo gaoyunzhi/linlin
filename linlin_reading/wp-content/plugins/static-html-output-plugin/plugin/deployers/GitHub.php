@@ -246,9 +246,7 @@ JSON;
             $headers      = array(
                 'Authorization: ' . 'token ' . $this->settings['ghToken']
             );
-            $parsed_remote_path = implode('/', array_map('rawurlencode', explode('/', $this->remote_path)));
-            $parsed_remote_path = str_replace('%3A//', '://', $parsed_remote_path);
-            $this->client->putWithJSONPayloadCustomHeaders($parsed_remote_path, $post_options, $headers, $curl_options = array(
+            $this->client->putWithJSONPayloadCustomHeaders($this->remote_path, $post_options, $headers, $curl_options = array(
                 CURLOPT_SSLVERSION => CURL_SSLVERSION_TLSv1_2
             ));
             $this->logAction("API response code {$this->client->status_code}");
