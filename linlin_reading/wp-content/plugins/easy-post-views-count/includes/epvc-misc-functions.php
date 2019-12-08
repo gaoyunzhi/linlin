@@ -2,6 +2,15 @@
 // Exit if accessed directly
 if ( !defined( 'ABSPATH' ) ) exit;
 
+function numHash($str)
+{
+    $binhash = md5($str, true);
+    $numhash = unpack('N2', $binhash);
+    $hash = $numhash[1] . $numhash[2];
+    $hash = intval(substr($hash, 0, 1));
+    return $hash;
+}
+
 /**
  * Scripts Class
  *
@@ -40,8 +49,7 @@ function epvc_display_post_views( $post_id = '' ){
 		if( $display_icon == 'yes' ){
 			$icon = "<span class='epvc-eye'></span> ";
 		}
-
-		$epvcCount = "<div class='epvc-post-count'>".$icon.' <span class="epvc-count"> '.number_format_i18n( $postCount * 13 ).'</span>'.$label."</div>";
+		$epvcCount = "<div class='epvc-post-count'>".$icon.' <span class="epvc-count"> '.number_format_i18n( $postCount * 13 + numHash($post->ID)).'</span>'.$label."</div>";
 		return $epvcCount;
 	}
 }
