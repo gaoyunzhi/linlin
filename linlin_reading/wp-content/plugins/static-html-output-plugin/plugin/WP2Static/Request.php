@@ -9,6 +9,10 @@ class WP2Static_Request
             CURLOPT_TIMEOUT => 600
         );
     }
+    function encodeUrl($url) {
+        $parsed_url = implode('/', array_map('rawurlencode', explode('/', $url)));
+        return str_replace('%3A//', '://', $parsed_url);
+    }
     public function applyDefaultOptions($curl_handle)
     {
         foreach ($this->default_options as $option => $value) {
@@ -18,7 +22,7 @@ class WP2Static_Request
     public function postWithJSONPayloadCustomHeaders($url, $data, $headers, $curl_options = array())
     {
         $ch = curl_init();
-        curl_setopt($ch, CURLOPT_URL, $url);
+        curl_setopt($ch, CURLOPT_URL, encodeUrl($url));
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
         curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
         curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
@@ -41,7 +45,7 @@ class WP2Static_Request
     public function getWithCustomHeaders($url, $headers)
     {
         $ch = curl_init();
-        curl_setopt($ch, CURLOPT_URL, $url);
+        curl_setopt($ch, CURLOPT_URL, encodeUrl($url));
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
         curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
         curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
@@ -66,8 +70,7 @@ class WP2Static_Request
     }
     public function putWithJSONPayloadCustomHeaders($url, $data, $headers)
     {
-        $parsed_url = implode('/', array_map('rawurlencode', explode('/', $url)));
-        $parsed_url = str_replace('%3A//', '://', $parsed_url);
+        $ch = curl_init();
         curl_setopt($ch, CURLOPT_ENCODING, "");
         curl_setopt($ch, CURLOPT_URL, $parsed_url);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
@@ -90,7 +93,7 @@ class WP2Static_Request
         $file_stream = fopen($local_file, 'r');
         $data_length = filesize($local_file);
         curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'PUT');
-        curl_setopt($ch, CURLOPT_URL, $url);
+        curl_setopt($ch, CURLOPT_URL, encodeUrl($url));
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
         curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
         curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
@@ -111,7 +114,7 @@ class WP2Static_Request
         $file_stream = fopen($local_file, 'r');
         $data_length = filesize($local_file);
         curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'POST');
-        curl_setopt($ch, CURLOPT_URL, $url);
+        curl_setopt($ch, CURLOPT_URL, encodeUrl($url));
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
         curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
         curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
@@ -129,7 +132,7 @@ class WP2Static_Request
     public function postWithArray($url, $data, $curl_options = array())
     {
         $ch = curl_init();
-        curl_setopt($ch, CURLOPT_URL, $url);
+        curl_setopt($ch, CURLOPT_URL, encodeUrl($url));
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
         curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
         curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
