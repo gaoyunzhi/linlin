@@ -246,6 +246,7 @@ JSON;
             $headers      = array(
                 'Authorization: ' . 'token ' . $this->settings['ghToken']
             );
+            $this->logAction("Yunzhi remote_path =  {$this->remote_path}");
             $this->client->putWithJSONPayloadCustomHeaders($this->remote_path, $post_options, $headers, $curl_options = array(
                 CURLOPT_SSLVERSION => CURL_SSLVERSION_TLSv1_2
             ));
