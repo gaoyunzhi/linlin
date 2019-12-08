@@ -15,6 +15,7 @@
 /2019/12/07/8/
 /2019/12/07/8/feed/
 /all_pages/
+/category/uncategorized/
 /category/uncategorized/feed/
 /comments/feed/
 /feed/

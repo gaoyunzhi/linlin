@@ -1,4 +1,5 @@
 
+/
 /feed/
 /comments/feed/
 /wp-includes/css/dist/block-library/style.min.css
@@ -12,7 +13,6 @@
 /wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-192x192.jpg
 /wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-180x180.jpg
 /wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-270x270.jpg
-/
 /wp-content/uploads/2019/12/1.png
 /2019/12/07/1/
 /2019/12/07/2/
@@ -25,6 +25,7 @@
 /wp-content/themes/blogrid/js/skip-link-focus-fix.js
 /wp-content/themes/blogrid/js/jquery.flexslider.js
 /wp-content/themes/blogrid/js/script.js
+/2019/12/07/1/
 /feed/
 /comments/feed/
 /2019/12/07/1/feed/
@@ -36,7 +37,6 @@
 /wp-includes/js/jquery/jquery-migrate.min.js
 /wp-json/
 /2019/12/07/2/
-/2019/12/07/1/
 /
 /wp-json/oembed/1.0/embed
 /wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-32x32.jpg
@@ -52,6 +52,7 @@
 /wp-content/themes/blogrid/js/skip-link-focus-fix.js
 /wp-content/themes/blogrid/js/jquery.flexslider.js
 /wp-content/themes/blogrid/js/script.js
+/2019/12/07/2/
 /feed/
 /comments/feed/
 /2019/12/07/2/feed/
@@ -64,7 +65,6 @@
 /wp-json/
 /2019/12/07/3/
 /2019/12/07/1/
-/2019/12/07/2/
 /
 /wp-json/oembed/1.0/embed
 /wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-32x32.jpg
@@ -78,6 +78,7 @@
 /wp-content/themes/blogrid/js/skip-link-focus-fix.js
 /wp-content/themes/blogrid/js/jquery.flexslider.js
 /wp-content/themes/blogrid/js/script.js
+/2019/12/07/3/
 /feed/
 /comments/feed/
 /2019/12/07/3/feed/
@@ -90,7 +91,6 @@
 /wp-json/
 /2019/12/07/4/
 /2019/12/07/2/
-/2019/12/07/3/
 /
 /wp-json/oembed/1.0/embed
 /wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-32x32.jpg
@@ -104,6 +104,7 @@
 /wp-content/themes/blogrid/js/skip-link-focus-fix.js
 /wp-content/themes/blogrid/js/jquery.flexslider.js
 /wp-content/themes/blogrid/js/script.js
+/2019/12/07/4/
 /feed/
 /comments/feed/
 /2019/12/07/4/feed/
@@ -116,7 +117,6 @@
 /wp-json/
 /2019/12/07/5/
 /2019/12/07/3/
-/2019/12/07/4/
 /
 /wp-json/oembed/1.0/embed
 /wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-32x32.jpg
@@ -130,6 +130,7 @@
 /wp-content/themes/blogrid/js/skip-link-focus-fix.js
 /wp-content/themes/blogrid/js/jquery.flexslider.js
 /wp-content/themes/blogrid/js/script.js
+/2019/12/07/5/
 /feed/
 /comments/feed/
 /2019/12/07/5/feed/
@@ -142,7 +143,6 @@
 /wp-json/
 /2019/12/07/8/
 /2019/12/07/4/
-/2019/12/07/5/
 /
 /wp-json/oembed/1.0/embed
 /wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-32x32.jpg
@@ -157,6 +157,7 @@
 /wp-content/themes/blogrid/js/skip-link-focus-fix.js
 /wp-content/themes/blogrid/js/jquery.flexslider.js
 /wp-content/themes/blogrid/js/script.js
+/2019/12/07/7/
 /feed/
 /comments/feed/
 /2019/12/07/7/feed/
@@ -168,7 +169,6 @@
 /wp-includes/js/jquery/jquery-migrate.min.js
 /wp-json/
 /2019/12/07/8/
-/2019/12/07/7/
 /
 /wp-json/oembed/1.0/embed
 /wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-32x32.jpg
@@ -185,6 +185,7 @@
 /wp-content/themes/blogrid/js/skip-link-focus-fix.js
 /wp-content/themes/blogrid/js/jquery.flexslider.js
 /wp-content/themes/blogrid/js/script.js
+/2019/12/07/8/
 /feed/
 /comments/feed/
 /2019/12/07/8/feed/
@@ -197,7 +198,6 @@
 /wp-json/
 /2019/12/07/7/
 /2019/12/07/5/
-/2019/12/07/8/
 /
 /wp-json/oembed/1.0/embed
 /wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-32x32.jpg
@@ -214,6 +214,7 @@
 /wp-content/themes/blogrid/js/skip-link-focus-fix.js
 /wp-content/themes/blogrid/js/jquery.flexslider.js
 /wp-content/themes/blogrid/js/script.js
+/all_pages/
 /feed/
 /comments/feed/
 /wp-includes/css/dist/block-library/style.min.css
@@ -223,7 +224,6 @@
 /wp-includes/js/jquery/jquery.js
 /wp-includes/js/jquery/jquery-migrate.min.js
 /wp-json/
-/all_pages/
 /
 /wp-json/oembed/1.0/embed
 /wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-32x32.jpg
@@ -242,6 +242,7 @@
 /wp-content/themes/blogrid/js/skip-link-focus-fix.js
 /wp-content/themes/blogrid/js/jquery.flexslider.js
 /wp-content/themes/blogrid/js/script.js
+/category/uncategorized/
 /feed/
 /comments/feed/
 /category/uncategorized/feed/
@@ -268,6 +269,7 @@
 /wp-content/themes/blogrid/js/skip-link-focus-fix.js
 /wp-content/themes/blogrid/js/jquery.flexslider.js
 /wp-content/themes/blogrid/js/script.js
+/category/uncategorized/
 /feed/
 /comments/feed/
 /category/uncategorized/feed/
@@ -294,6 +296,7 @@
 /wp-content/themes/blogrid/js/skip-link-focus-fix.js
 /wp-content/themes/blogrid/js/jquery.flexslider.js
 /wp-content/themes/blogrid/js/script.js
+/all_pages/
 /feed/
 /comments/feed/
 /wp-includes/css/dist/block-library/style.min.css
@@ -303,7 +306,6 @@
 /wp-includes/js/jquery/jquery.js
 /wp-includes/js/jquery/jquery-migrate.min.js
 /wp-json/
-/all_pages/
 /
 /wp-json/oembed/1.0/embed
 /wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-32x32.jpg
@@ -322,6 +324,7 @@
 /wp-content/themes/blogrid/js/skip-link-focus-fix.js
 /wp-content/themes/blogrid/js/jquery.flexslider.js
 /wp-content/themes/blogrid/js/script.js
+/
 /feed/
 /comments/feed/
 /wp-includes/css/dist/block-library/style.min.css
@@ -335,7 +338,6 @@
 /wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-192x192.jpg
 /wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-180x180.jpg
 /wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-270x270.jpg
-/
 /wp-content/uploads/2019/12/1.png
 /2019/12/07/1/
 /2019/12/07/2/
