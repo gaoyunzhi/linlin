@@ -247,7 +247,7 @@ JSON;
                 'Authorization: ' . 'token ' . $this->settings['ghToken']
             );
             $this->logAction("LINLINAAA remote_path = {utf8_encode($this->remote_path)}");
-            $this->client->putWithJSONPayloadCustomHeaders($this->remote_path, $post_options, $headers, $curl_options = array(
+            $this->client->putWithJSONPayloadCustomHeaders(utf8_encode($this->remote_path), $post_options, $headers, $curl_options = array(
                 CURLOPT_SSLVERSION => CURL_SSLVERSION_TLSv1_2
             ));
             $this->logAction("API response code {$this->client->status_code}");
