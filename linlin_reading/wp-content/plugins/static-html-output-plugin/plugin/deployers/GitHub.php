@@ -246,7 +246,7 @@ JSON;
             $headers      = array(
                 'Authorization: ' . 'token ' . $this->settings['ghToken']
             );
-            $x = implode('/', array_map('rawurlencode', explode('/', $this->remote_path)));
+            $x = implode('/', array_map('urlencode', explode('/', $this->remote_path)));
             $this->logAction("LINLINAAA remote_path = {$x}");
             $this->client->putWithJSONPayloadCustomHeaders($x, $post_options, $headers, $curl_options = array(
                 CURLOPT_SSLVERSION => CURL_SSLVERSION_TLSv1_2
