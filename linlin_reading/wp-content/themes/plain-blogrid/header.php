@@ -49,7 +49,7 @@
 							<img src="/linlin_reading/wp-content/uploads/2019/12/thin1.png" alt="wechat" style="height:30px;border:0;margin-right:10px;margin-top:10px;">
 						</a>
 						<a href="https://t.me/dushufenxiang_chat" target="_blank">
-							<img src="/linlin_reading/wp-content/uploads/2019/12/icon2561.png" alt="telegram" style="width:30px;height:30px;border:0;margin-top:10px">
+							<img src="/linlin_reading/wp-content/uploads/2019/12/icon2561.png" alt="telegram" style="width:30px;height:30px;border:0;margin-top:10px; margin-right:20px;">
 						</a>
 					</div>
 				</div>

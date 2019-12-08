@@ -6,6 +6,7 @@
 /2019/12/07/5/
 /2019/12/07/8/
 /2019/12/08/%e3%80%90%e5%8d%9a%e5%ad%a6%e6%85%8e%e6%80%9d%e3%80%91%e6%88%91%e4%b8%ba%e4%bd%95%e5%8f%8d%e5%af%b9%e6%8b%a5%e6%9e%aa/
+/2019/12/08/%e3%80%90%e8%af%bb%e4%b9%a6%e5%88%86%e4%ba%ab%e3%80%9119%e5%b9%b4%e4%b9%a6%e5%8d%95/
 /2019/12/08/vpn/
 /all_pages/
 /category/uncategorized/
@@ -23,6 +24,7 @@
 /linlin_reading/2019/12/07/8/
 /linlin_reading/2019/12/08/
 /linlin_reading/2019/12/08/%e3%80%90%e5%8d%9a%e5%ad%a6%e6%85%8e%e6%80%9d%e3%80%91%e6%88%91%e4%b8%ba%e4%bd%95%e5%8f%8d%e5%af%b9%e6%8b%a5%e6%9e%aa/
+/linlin_reading/2019/12/08/%e3%80%90%e8%af%bb%e4%b9%a6%e5%88%86%e4%ba%ab%e3%80%9119%e5%b9%b4%e4%b9%a6%e5%8d%95/
 /linlin_reading/2019/12/08/vpn/
 /linlin_reading/all_pages/
 /page/1
