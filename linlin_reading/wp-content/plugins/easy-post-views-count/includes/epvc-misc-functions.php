@@ -41,7 +41,7 @@ function epvc_display_post_views( $post_id = '' ){
 			$icon = "<span class='epvc-eye'></span> ";
 		}
 
-		$epvcCount = "<div class='epvc-post-count'>".$icon.' <span class="epvc-count"> '.number_format_i18n( $postCount ).'</span>'.$label."</div>";
+		$epvcCount = "<div class='epvc-post-count'>".$icon.' <span class="epvc-count"> '.number_format_i18n( $postCount * 13 ).'</span>'.$label."</div>";
 		return $epvcCount;
 	}
 }
