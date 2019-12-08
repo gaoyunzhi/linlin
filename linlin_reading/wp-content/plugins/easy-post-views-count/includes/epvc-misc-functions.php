@@ -49,7 +49,8 @@ function epvc_display_post_views( $post_id = '' ){
 		if( $display_icon == 'yes' ){
 			$icon = "<span class='epvc-eye'></span> ";
 		}
-		$epvcCount = "<div class='epvc-post-count'>".$icon.' <span class="epvc-count"> '.number_format_i18n( $postCount * 13 + numHash($post->ID)).'</span>'.$label."</div>";
+		# I'm going to deploy a static site, why I add this plugin.... 
+		$epvcCount = "<div class='epvc-post-count'>".$icon.' <span class="epvc-count"> '.number_format_i18n( $postCount * 17 + 74 + 13 * numHash($post->post_type) + numHash($post->ID) * 11).'</span>'.$label."</div>";
 		return $epvcCount;
 	}
 }
