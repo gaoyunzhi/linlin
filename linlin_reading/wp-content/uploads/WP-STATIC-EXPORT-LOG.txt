@@ -820,3 +820,231 @@ Crawling /2019/12/07/5/feed/
 SAVING /2019/12/07/5/feed/ to /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/2019/12/07/5/feed/index.html
 Memory allocated by crawl script: 2048
 Crawling /2019/12/07/7/feed/
+SAVING /2019/12/07/7/feed/ to /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/2019/12/07/7/feed/index.html
+Memory allocated by crawl script: 2048
+Crawling /2019/12/07/8/feed/
+SAVING /2019/12/07/8/feed/ to /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/2019/12/07/8/feed/index.html
+Memory allocated by crawl script: 2048
+Crawling /category/uncategorized/feed/
+SAVING /category/uncategorized/feed/ to /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/category/uncategorized/feed/index.html
+Memory allocated by crawl script: 2048
+Crawling /comments/feed/
+SAVING /comments/feed/ to /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/comments/feed/index.html
+Memory allocated by crawl script: 2048
+Crawling /feed/
+SAVING /feed/ to /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095//feed/index.html
+Memory allocated by crawl script: 2048
+Crawling /wp-includes/css/dist/block-library/style.min.css
+SAVING /wp-includes/css/dist/block-library/style.min.css to /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-includes/css/dist/block-library/style.min.css
+Memory allocated by crawl script: 2048
+Crawling /wp-includes/js/jquery/jquery-migrate.min.js
+SAVING /wp-includes/js/jquery/jquery-migrate.min.js to /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-includes/js/jquery/jquery-migrate.min.js
+Memory allocated by crawl script: 2048
+Crawling /wp-includes/js/jquery/jquery.js
+SAVING /wp-includes/js/jquery/jquery.js to /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-includes/js/jquery/jquery.js
+Memory allocated by crawl script: 2048
+Excluding /wp-json/ because of rule wp-json
+Excluding /wp-json/oembed/1.0/embed because of rule wp-json
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/2019/12/07/1/feed/index.html to 2019/12/07/1/feed/index.html in GitHub
+Skipping 2019/12/07/1/feed/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/2019/12/07/1/index.html to 2019/12/07/1/index.html in GitHub
+Skipping 2019/12/07/1/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/2019/12/07/2/feed/index.html to 2019/12/07/2/feed/index.html in GitHub
+Skipping 2019/12/07/2/feed/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/2019/12/07/2/index.html to 2019/12/07/2/index.html in GitHub
+Skipping 2019/12/07/2/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/2019/12/07/3/feed/index.html to 2019/12/07/3/feed/index.html in GitHub
+Skipping 2019/12/07/3/feed/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/2019/12/07/3/index.html to 2019/12/07/3/index.html in GitHub
+Skipping 2019/12/07/3/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/2019/12/07/4/feed/index.html to 2019/12/07/4/feed/index.html in GitHub
+Skipping 2019/12/07/4/feed/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/2019/12/07/4/index.html to 2019/12/07/4/index.html in GitHub
+Skipping 2019/12/07/4/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/2019/12/07/5/feed/index.html to 2019/12/07/5/feed/index.html in GitHub
+Skipping 2019/12/07/5/feed/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/2019/12/07/5/index.html to 2019/12/07/5/index.html in GitHub
+Skipping 2019/12/07/5/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/2019/12/07/7/feed/index.html to 2019/12/07/7/feed/index.html in GitHub
+Skipping 2019/12/07/7/feed/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/2019/12/07/7/index.html to 2019/12/07/7/index.html in GitHub
+Skipping 2019/12/07/7/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/2019/12/07/8/feed/index.html to 2019/12/07/8/feed/index.html in GitHub
+Skipping 2019/12/07/8/feed/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/2019/12/07/8/index.html to 2019/12/07/8/index.html in GitHub
+Skipping 2019/12/07/8/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/2019/12/index.html to 2019/12/index.html in GitHub
+Skipping 2019/12/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/all_pages/index.html to all_pages/index.html in GitHub
+Skipping all_pages/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/category/uncategorized/feed/index.html to category/uncategorized/feed/index.html in GitHub
+Skipping category/uncategorized/feed/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/category/uncategorized/index.html to category/uncategorized/index.html in GitHub
+Skipping category/uncategorized/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/category/uncategorized/page/1/index.html to category/uncategorized/page/1/index.html in GitHub
+Skipping category/uncategorized/page/1/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/comments/feed/index.html to comments/feed/index.html in GitHub
+Skipping comments/feed/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/feed/index.html to feed/index.html in GitHub
+Skipping feed/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/index.html to index.html in GitHub
+Skipping index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/linlin_reading/all_pages/index.html to linlin_reading/all_pages/index.html in GitHub
+Skipping linlin_reading/all_pages/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/page/1/index.html to page/1/index.html in GitHub
+Skipping page/1/index.html as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/css/compare.css to wp-content/themes/blogrid/css/compare.css in GitHub
+Skipping wp-content/themes/blogrid/css/compare.css as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/css/custom.css to wp-content/themes/blogrid/css/custom.css in GitHub
+Skipping wp-content/themes/blogrid/css/custom.css as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/css/font-awesome.css to wp-content/themes/blogrid/css/font-awesome.css in GitHub
+Skipping wp-content/themes/blogrid/css/font-awesome.css as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/css/font-awesome.min.css to wp-content/themes/blogrid/css/font-awesome.min.css in GitHub
+Skipping wp-content/themes/blogrid/css/font-awesome.min.css as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/fonts/FontAwesome.otf to wp-content/themes/blogrid/fonts/FontAwesome.otf in GitHub
+Skipping wp-content/themes/blogrid/fonts/FontAwesome.otf as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/fonts/fontawesome-webfont.eot to wp-content/themes/blogrid/fonts/fontawesome-webfont.eot in GitHub
+Skipping wp-content/themes/blogrid/fonts/fontawesome-webfont.eot as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/fonts/fontawesome-webfont.svg to wp-content/themes/blogrid/fonts/fontawesome-webfont.svg in GitHub
+Skipping wp-content/themes/blogrid/fonts/fontawesome-webfont.svg as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/fonts/fontawesome-webfont.ttf to wp-content/themes/blogrid/fonts/fontawesome-webfont.ttf in GitHub
+Skipping wp-content/themes/blogrid/fonts/fontawesome-webfont.ttf as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/fonts/fontawesome-webfont.woff to wp-content/themes/blogrid/fonts/fontawesome-webfont.woff in GitHub
+Skipping wp-content/themes/blogrid/fonts/fontawesome-webfont.woff as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/fonts/fontawesome-webfont.woff2 to wp-content/themes/blogrid/fonts/fontawesome-webfont.woff2 in GitHub
+Skipping wp-content/themes/blogrid/fonts/fontawesome-webfont.woff2 as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/icons/check.png to wp-content/themes/blogrid/icons/check.png in GitHub
+Skipping wp-content/themes/blogrid/icons/check.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/icons/cross.png to wp-content/themes/blogrid/icons/cross.png in GitHub
+Skipping wp-content/themes/blogrid/icons/cross.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/img/bg-img.jpg to wp-content/themes/blogrid/img/bg-img.jpg in GitHub
+Skipping wp-content/themes/blogrid/img/bg-img.jpg as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/js/customizer.js to wp-content/themes/blogrid/js/customizer.js in GitHub
+Skipping wp-content/themes/blogrid/js/customizer.js as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/js/jquery.flexslider.js to wp-content/themes/blogrid/js/jquery.flexslider.js in GitHub
+Skipping wp-content/themes/blogrid/js/jquery.flexslider.js as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/js/navigation.js to wp-content/themes/blogrid/js/navigation.js in GitHub
+Skipping wp-content/themes/blogrid/js/navigation.js as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/js/script.js to wp-content/themes/blogrid/js/script.js in GitHub
+Skipping wp-content/themes/blogrid/js/script.js as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/js/skip-link-focus-fix.js to wp-content/themes/blogrid/js/skip-link-focus-fix.js in GitHub
+Skipping wp-content/themes/blogrid/js/skip-link-focus-fix.js as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/justinadlock-customizer-button/customize-controls.css to wp-content/themes/blogrid/justinadlock-customizer-button/customize-controls.css in GitHub
+Skipping wp-content/themes/blogrid/justinadlock-customizer-button/customize-controls.css as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/justinadlock-customizer-button/customize-controls.js to wp-content/themes/blogrid/justinadlock-customizer-button/customize-controls.js in GitHub
+Skipping wp-content/themes/blogrid/justinadlock-customizer-button/customize-controls.js as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/screenshot.png to wp-content/themes/blogrid/screenshot.png in GitHub
+Skipping wp-content/themes/blogrid/screenshot.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/blogrid/style.css to wp-content/themes/blogrid/style.css in GitHub
+Skipping wp-content/themes/blogrid/style.css as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/plain-blogrid/screenshot.png to wp-content/themes/plain-blogrid/screenshot.png in GitHub
+Skipping wp-content/themes/plain-blogrid/screenshot.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/themes/plain-blogrid/style.css to wp-content/themes/plain-blogrid/style.css in GitHub
+Skipping wp-content/themes/plain-blogrid/style.css as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/1-1024x174.png to wp-content/uploads/2019/12/1-1024x174.png in GitHub
+Skipping wp-content/uploads/2019/12/1-1024x174.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/1-150x150.png to wp-content/uploads/2019/12/1-150x150.png in GitHub
+Skipping wp-content/uploads/2019/12/1-150x150.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/1-1536x261.png to wp-content/uploads/2019/12/1-1536x261.png in GitHub
+Skipping wp-content/uploads/2019/12/1-1536x261.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/1-300x180.png to wp-content/uploads/2019/12/1-300x180.png in GitHub
+Skipping wp-content/uploads/2019/12/1-300x180.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/1-300x51.png to wp-content/uploads/2019/12/1-300x51.png in GitHub
+Skipping wp-content/uploads/2019/12/1-300x51.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/1-350x230.png to wp-content/uploads/2019/12/1-350x230.png in GitHub
+Skipping wp-content/uploads/2019/12/1-350x230.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/1-768x131.png to wp-content/uploads/2019/12/1-768x131.png in GitHub
+Skipping wp-content/uploads/2019/12/1-768x131.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/1-850x145.png to wp-content/uploads/2019/12/1-850x145.png in GitHub
+Skipping wp-content/uploads/2019/12/1-850x145.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/1.png to wp-content/uploads/2019/12/1.png in GitHub
+Skipping wp-content/uploads/2019/12/1.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-150x150.jpg to wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-150x150.jpg in GitHub
+Skipping wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-150x150.jpg as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-180x180.jpg to wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-180x180.jpg in GitHub
+Skipping wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-180x180.jpg as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-192x192.jpg to wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-192x192.jpg in GitHub
+Skipping wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-192x192.jpg as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-270x270.jpg to wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-270x270.jpg in GitHub
+Skipping wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-270x270.jpg as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-300x180.jpg to wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-300x180.jpg in GitHub
+Skipping wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-300x180.jpg as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-300x300.jpg to wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-300x300.jpg in GitHub
+Skipping wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-300x300.jpg as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-32x32.jpg to wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-32x32.jpg in GitHub
+Skipping wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-32x32.jpg as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-350x230.jpg to wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-350x230.jpg in GitHub
+Skipping wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42-350x230.jpg as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42.jpg to wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42.jpg in GitHub
+Skipping wp-content/uploads/2019/12/cropped-photo_2019-12-01_15-33-42.jpg as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/heavy.bmp to wp-content/uploads/2019/12/heavy.bmp in GitHub
+Skipping wp-content/uploads/2019/12/heavy.bmp as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/icon2561-150x150.png to wp-content/uploads/2019/12/icon2561-150x150.png in GitHub
+Skipping wp-content/uploads/2019/12/icon2561-150x150.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/icon2561-245x180.png to wp-content/uploads/2019/12/icon2561-245x180.png in GitHub
+Skipping wp-content/uploads/2019/12/icon2561-245x180.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/icon2561-245x230.png to wp-content/uploads/2019/12/icon2561-245x230.png in GitHub
+Skipping wp-content/uploads/2019/12/icon2561-245x230.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/icon2561.png to wp-content/uploads/2019/12/icon2561.png in GitHub
+Skipping wp-content/uploads/2019/12/icon2561.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/photo_2019-12-01_15-33-42-150x150.jpg to wp-content/uploads/2019/12/photo_2019-12-01_15-33-42-150x150.jpg in GitHub
+Skipping wp-content/uploads/2019/12/photo_2019-12-01_15-33-42-150x150.jpg as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/photo_2019-12-01_15-33-42-300x180.jpg to wp-content/uploads/2019/12/photo_2019-12-01_15-33-42-300x180.jpg in GitHub
+Skipping wp-content/uploads/2019/12/photo_2019-12-01_15-33-42-300x180.jpg as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/photo_2019-12-01_15-33-42-300x300.jpg to wp-content/uploads/2019/12/photo_2019-12-01_15-33-42-300x300.jpg in GitHub
+Skipping wp-content/uploads/2019/12/photo_2019-12-01_15-33-42-300x300.jpg as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/photo_2019-12-01_15-33-42-350x230.jpg to wp-content/uploads/2019/12/photo_2019-12-01_15-33-42-350x230.jpg in GitHub
+Skipping wp-content/uploads/2019/12/photo_2019-12-01_15-33-42-350x230.jpg as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/photo_2019-12-01_15-33-42-768x768.jpg to wp-content/uploads/2019/12/photo_2019-12-01_15-33-42-768x768.jpg in GitHub
+Skipping wp-content/uploads/2019/12/photo_2019-12-01_15-33-42-768x768.jpg as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/photo_2019-12-01_15-33-42-850x850.jpg to wp-content/uploads/2019/12/photo_2019-12-01_15-33-42-850x850.jpg in GitHub
+Skipping wp-content/uploads/2019/12/photo_2019-12-01_15-33-42-850x850.jpg as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/photo_2019-12-01_15-33-42.jpg to wp-content/uploads/2019/12/photo_2019-12-01_15-33-42.jpg in GitHub
+Skipping wp-content/uploads/2019/12/photo_2019-12-01_15-33-42.jpg as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/thin.bmp to wp-content/uploads/2019/12/thin.bmp in GitHub
+Skipping wp-content/uploads/2019/12/thin.bmp as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/thin1-1024x154.png to wp-content/uploads/2019/12/thin1-1024x154.png in GitHub
+Skipping wp-content/uploads/2019/12/thin1-1024x154.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/thin1-150x150.png to wp-content/uploads/2019/12/thin1-150x150.png in GitHub
+Skipping wp-content/uploads/2019/12/thin1-150x150.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/thin1-1536x231.png to wp-content/uploads/2019/12/thin1-1536x231.png in GitHub
+Skipping wp-content/uploads/2019/12/thin1-1536x231.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/thin1-2048x308.png to wp-content/uploads/2019/12/thin1-2048x308.png in GitHub
+Skipping wp-content/uploads/2019/12/thin1-2048x308.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/thin1-300x180.png to wp-content/uploads/2019/12/thin1-300x180.png in GitHub
+Skipping wp-content/uploads/2019/12/thin1-300x180.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/thin1-300x45.png to wp-content/uploads/2019/12/thin1-300x45.png in GitHub
+Skipping wp-content/uploads/2019/12/thin1-300x45.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/thin1-350x230.png to wp-content/uploads/2019/12/thin1-350x230.png in GitHub
+Skipping wp-content/uploads/2019/12/thin1-350x230.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/thin1-768x116.png to wp-content/uploads/2019/12/thin1-768x116.png in GitHub
+Skipping wp-content/uploads/2019/12/thin1-768x116.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/thin1-850x128.png to wp-content/uploads/2019/12/thin1-850x128.png in GitHub
+Skipping wp-content/uploads/2019/12/thin1-850x128.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/thin1.png to wp-content/uploads/2019/12/thin1.png in GitHub
+Skipping wp-content/uploads/2019/12/thin1.png as identical to deploy cache
+Uploading /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/uploads/wp-static-html-output-1575765095/wp-content/uploads/2019/12/多余的话.mobi to wp-content/uploads/2019/12/多余的话.mobi in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/uploads/2019/12/多余的话.mobi in GitHub
+Yunzhi remote_path =  https://api.github.com/repos/gaoyunzhi/linlin_reading/contents/wp-content/uploads/2019/12/多余的话.mobi
+API response code 400
+API response body <!DOCTYPE html><title>Malformed request</title>
+<body>We didn't receive a proper request from your browser. Please contact us if the problem persists.</body>
+</html>
+
+BAD RESPONSE STATUS FROM API (400)
+Deployment: error encountered
+Exception: BAD RESPONSE STATUS FROM API (400) in /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/plugins/static-html-output-plugin/plugin/WP2Static/SitePublisher.php:2
+Stack trace:
+#0 /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/plugins/static-html-output-plugin/plugin/deployers/GitHub.php(256): WP2Static_SitePublisher->checkForValidResponses(400, Array)
+#1 /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/plugins/static-html-output-plugin/plugin/deployers/GitHub.php(71): WP2Static_GitHub->createFileInGitHub()
+#2 /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/plugins/static-html-output-plugin/plugin/deployers/GitHub.php(22): WP2Static_GitHub->upload_files()
+#3 /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/plugins/static-html-output-plugin/plugin/deployers/GitHub.php(268): WP2Static_GitHub->__construct()
+#4 /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/plugins/static-html-output-plugin/plugin/WP2Static/Dispatcher.php(2): require_once('/Users/yunzhi/D...')
+#5 /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-content/plugins/static-html-output-plugin/wp2static.php(17): require_once('/Users/yunzhi/D...')
+#6 /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-settings.php(360): include_once('/Users/yunzhi/D...')
+#7 /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-config.php(92): require_once('/Users/yunzhi/D...')
+#8 /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-load.php(37): require_once('/Users/yunzhi/D...')
+#9 /Users/yunzhi/Documents/projects/linlin/linlin_reading/wp-admin/admin-ajax.php(22): require_once('/Users/yunzhi/D...')
+#10 {main}

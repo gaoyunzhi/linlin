@@ -85,3 +85,11 @@
 /2019/12/07/3/feed/
 /2019/12/07/4/feed/
 /2019/12/07/5/feed/
+/2019/12/07/7/feed/
+/2019/12/07/8/feed/
+/category/uncategorized/feed/
+/comments/feed/
+/feed/
+/wp-includes/css/dist/block-library/style.min.css
+/wp-includes/js/jquery/jquery-migrate.min.js
+/wp-includes/js/jquery/jquery.js
