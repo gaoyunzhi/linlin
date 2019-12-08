@@ -10,7 +10,6 @@ class WP2Static_Request
         );
     }
     function encodeUrl($url) {
-        return $url;
         $parsed_url = implode('/', array_map('urlencode', explode('/', $url)));
         return str_replace('%3A//', '://', $parsed_url);
     }
