@@ -4,11 +4,15 @@
 /2019/12/07/3/feed/
 /2019/12/07/4/feed/
 /2019/12/07/5/feed/
-/2019/12/07/7/feed/
 /2019/12/07/8/feed/
+/2019/12/08/%E3%80%90%E5%8D%9A%E5%AD%A6%E6%85%8E%E6%80%9D%E3%80%91%E6%88%91%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%AF%B9%E6%8B%A5%E6%9E%AA/
+/2019/12/08/%e3%80%90%e5%8d%9a%e5%ad%a6%e6%85%8e%e6%80%9d%e3%80%91%e6%88%91%e4%b8%ba%e4%bd%95%e5%8f%8d%e5%af%b9%e6%8b%a5%e6%9e%aa/feed/
+/2019/12/08/vpn/feed/
 /category/uncategorized/feed/
 /comments/feed/
 /feed/
+/wp-content/plugins/thumbs-rating/css/style.css
+/wp-content/plugins/thumbs-rating/js/general.js
 /wp-includes/css/dist/block-library/style.min.css
 /wp-includes/js/jquery/jquery-migrate.min.js
 /wp-includes/js/jquery/jquery.js
