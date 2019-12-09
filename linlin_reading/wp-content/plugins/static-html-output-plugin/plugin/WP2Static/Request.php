@@ -11,7 +11,8 @@ class WP2Static_Request
     }
     function encodeUrl($url) {
         $pieces = explode('/', $url);
-        $pieces[-1] = urlencode($pieces[-1]);
+        $index = count( $pieces ) - 1;
+        $pieces[$index] = urlencode($pieces[$index]);
         $parsed_url = implode('/', $pieces);
         return str_replace('%3A//', '://', $parsed_url);
     }
